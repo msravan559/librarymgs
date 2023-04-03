@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 const LandingPage = () => {
 
@@ -8,7 +9,8 @@ const LandingPage = () => {
             <h1>Login as....?</h1>
             
             <div className="users">
-
+            <Link to="/admin-login">Admin login</Link>
+            <Link to="/user-login">User login</Link> 
             </div>
 
         </div>
