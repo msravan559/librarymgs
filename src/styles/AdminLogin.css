@@ -87,15 +87,15 @@
 .content11 h1{
     color: rgb(6, 136, 93);
 }
-form button
+form .adminloginbutton
 {
     position: relative;
     top: 15px;
     left: 100px;
-   padding: 5px 20px;
-   border-radius: 4px;
-   border: none;
-   box-shadow: 2px 4px 7px rgb(22, 80, 50) inset;
-   color: white;
-   background-color: rgb(6, 136, 93);;
+    padding: 5px 20px;
+    border-radius: 4px;
+    border: none;
+    box-shadow: 2px 4px 7px rgb(22, 80, 50) inset;
+    color: white;
+    background-color: rgb(6, 136, 93);
 }

@@ -1,0 +1,124 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "Chinua Achebe",
+      "country": "Nigeria",
+      "imageLink": "https://unsplash.com/photos/9DaOYUYnOls",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+      "pages": 209,
+      "title": "Things Fall Apart",
+      "year": 1958,
+      "description": "Things Fall Apart is the debut novel by Nigerian author Chinua Achebe, first published in 1958. It depicts pre-colonial life in the southeastern part of Nigeria and the invasion by Europeans during the late 19th century. It is seen as the archetypal modern African novel in English, and one of the first to receive global critical acclaim. It is a staple book in schools throughout Africa and is widely read and studied in English-speaking countries around the world. The novel was first published in the United Kingdom in 1962 by William Heinemann Ltd, and became the first work published in Heinemann's African Writers Series.The novel follows the life of Okonkwo, an Igbo ('Ibo' in the novel) man and local wrestling champion in the fictional Nigerian clan of Umuofia. The work is split into three parts, with the first describing his family, personal history, and the customs and society of the Igbo, and the second and third sections introducing the influence of European colonialism and Christian missionaries on Okonkwo, his family, and the wider Igbo community."
+    },
+    {
+      "id": 2,
+      "author": "Hans Christian Andersen",
+      "country": "Denmark",
+      "imageLink": "https://unsplash.com/photos/CXYPfveiuis",
+      "language": "Danish",
+      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
+      "pages": 784,
+      "title": "Fairy tales",
+      "year": 1836,
+      "description": "Fairy Tales Told for Children. First Collection. (Danish: Eventyr, fortalte for Børn. Første Samling.) is a collection of nine fairy tales by Hans Christian Andersen. The tales were published in a series of three installments by C. A. Reitzel between May 1835 and April 1837, and represent Andersen's first venture into the fairy tale genre.The nine tales of the three booklets were collected together and published in one volume and sold at seventy-two shillings. A title page, a table of contents, and a preface by Andersen were published in the volume.[1][2][3]"
+    },
+    {
+      "id": 3,
+      "author": "Dante Alighieri",
+      "country": "Italy",
+      "imageLink": "https://unsplash.com/photos/9zsHNt5OpqE",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
+      "pages": 928,
+      "title": "The Divine Comedy",
+      "year": 1315,
+      "description": "Things Fall Apart is the debut novel by Nigerian author Chinua Achebe, first published in 1958. It depicts pre-colonial life in the southeastern part of Nigeria and the invasion by Europeans during the late 19th century. It is seen as the archetypal modern African novel in English, and one of the first to receive global critical acclaim. It is a staple book in schools throughout Africa and is widely read and studied in English-speaking countries around the world. The novel was first published in the United Kingdom in 1962 by William Heinemann Ltd, and became the first work published in Heinemann's African Writers Series.The novel follows the life of Okonkwo, an Igbo ('Ibo' in the novel) man and local wrestling champion in the fictional Nigerian clan of Umuofia. The work is split into three parts, with the first describing his family, personal history, and the customs and society of the Igbo, and the second and third sections introducing the influence of European colonialism and Christian missionaries on Okonkwo, his family, and the wider Igbo community."
+    },
+    {
+      "id": 4,
+      "author": "Unknown",
+      "country": "Sumer and Akkadian Empire",
+      "imageLink": "https://unsplash.com/photos/bhBONc07WsI",
+      "language": "Akkadian",
+      "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+      "pages": 160,
+      "title": "The Epic Of Gilgamesh",
+      "year": -1700,
+      "description": "Things Fall Apart is the debut novel by Nigerian author Chinua Achebe, first published in 1958. It depicts pre-colonial life in the southeastern part of Nigeria and the invasion by Europeans during the late 19th century. It is seen as the archetypal modern African novel in English, and one of the first to receive global critical acclaim. It is a staple book in schools throughout Africa and is widely read and studied in English-speaking countries around the world. The novel was first published in the United Kingdom in 1962 by William Heinemann Ltd, and became the first work published in Heinemann's African Writers Series.The novel follows the life of Okonkwo, an Igbo ('Ibo' in the novel) man and local wrestling champion in the fictional Nigerian clan of Umuofia. The work is split into three parts, with the first describing his family, personal history, and the customs and society of the Igbo, and the second and third sections introducing the influence of European colonialism and Christian missionaries on Okonkwo, his family, and the wider Igbo community."
+    },
+    {
+      "id": 5,
+      "author": "Unknown",
+      "country": "Achaemenid Empire",
+      "imageLink": "https://unsplash.com/photos/g827ZOCwt30",
+      "language": "Hebrew",
+      "link": "https://en.wikipedia.org/wiki/Book_of_Job",
+      "pages": 176,
+      "title": "The Book Of Job",
+      "year": -600,
+      "description": "Fairy Tales Told for Children. First Collection. (Danish: Eventyr, fortalte for Børn. Første Samling.) is a collection of nine fairy tales by Hans Christian Andersen. The tales were published in a series of three installments by C. A. Reitzel between May 1835 and April 1837, and represent Andersen's first venture into the fairy tale genre.The nine tales of the three booklets were collected together and published in one volume and sold at seventy-two shillings. A title page, a table of contents, and a preface by Andersen were published in the volume.[1][2][3]"
+    },
+    {
+      "id": 6,
+      "author": "Unknown",
+      "country": "India/Iran/Iraq/Egypt/Tajikistan",
+      "imageLink": "https://unsplash.com/photos/UhdlN7u87nA",
+      "language": "Arabic",
+      "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+      "pages": 288,
+      "title": "One Thousand and One Nights",
+      "year": 1200,
+      "description": "Fairy Tales Told for Children. First Collection. (Danish: Eventyr, fortalte for Børn. Første Samling.) is a collection of nine fairy tales by Hans Christian Andersen. The tales were published in a series of three installments by C. A. Reitzel between May 1835 and April 1837, and represent Andersen's first venture into the fairy tale genre.The nine tales of the three booklets were collected together and published in one volume and sold at seventy-two shillings. A title page, a table of contents, and a preface by Andersen were published in the volume.[1][2][3]"
+    },
+    {
+      "id": 7,
+      "author": "Unknown",
+      "country": "Iceland",
+      "imageLink": "https://unsplash.com/photos/zMRLZh40kms",
+      "language": "Old Norse",
+      "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga",
+      "pages": 384,
+      "title": "Njál's Saga",
+      "year": 1350,
+      "description": "Fairy Tales Told for Children. First Collection. (Danish: Eventyr, fortalte for Børn. Første Samling.) is a collection of nine fairy tales by Hans Christian Andersen. The tales were published in a series of three installments by C. A. Reitzel between May 1835 and April 1837, and represent Andersen's first venture into the fairy tale genre.The nine tales of the three booklets were collected together and published in one volume and sold at seventy-two shillings. A title page, a table of contents, and a preface by Andersen were published in the volume.[1][2][3]"
+    },
+    {
+      "id": 8,
+      "author": "Jane Austen",
+      "country": "United Kingdom",
+      "imageLink": "https://unsplash.com/photos/-FVaZbu6ZAE",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "pages": 226,
+      "title": "Pride and Prejudice",
+      "year": 1813,
+      "description": "Fairy Tales Told for Children. First Collection. (Danish: Eventyr, fortalte for Børn. Første Samling.) is a collection of nine fairy tales by Hans Christian Andersen. The tales were published in a series of three installments by C. A. Reitzel between May 1835 and April 1837, and represent Andersen's first venture into the fairy tale genre.The nine tales of the three booklets were collected together and published in one volume and sold at seventy-two shillings. A title page, a table of contents, and a preface by Andersen were published in the volume.[1][2][3]"
+    },
+    {
+      "id": 9,
+      "author": "Honoré de Balzac",
+      "country": "France",
+      "imageLink": "https://unsplash.com/photos/YTRtCfniV8I",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot",
+      "pages": 443,
+      "title": "Le Père Goriot",
+      "year": 1835,
+      "description": "Fairy Tales Told for Children. First Collection. (Danish: Eventyr, fortalte for Børn. Første Samling.) is a collection of nine fairy tales by Hans Christian Andersen. The tales were published in a series of three installments by C. A. Reitzel between May 1835 and April 1837, and represent Andersen's first venture into the fairy tale genre.The nine tales of the three booklets were collected together and published in one volume and sold at seventy-two shillings. A title page, a table of contents, and a preface by Andersen were published in the volume.[1][2][3]"
+    },
+    {
+      "id": 10,
+      "author": "Samuel Beckett",
+      "country": "Republic of Ireland",
+      "imageLink": "https://unsplash.com/photos/DRZQLqm-wk8",
+      "language": "French, English",
+      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
+      "pages": 256,
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "year": 1952,
+      "description": "Fairy Tales Told for Children. First Collection. (Danish: Eventyr, fortalte for Børn. Første Samling.) is a collection of nine fairy tales by Hans Christian Andersen. The tales were published in a series of three installments by C. A. Reitzel between May 1835 and April 1837, and represent Andersen's first venture into the fairy tale genre.The nine tales of the three booklets were collected together and published in one volume and sold at seventy-two shillings. A title page, a table of contents, and a preface by Andersen were published in the volume.[1][2][3]"
+    }
+  ]
+}

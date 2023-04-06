@@ -1,0 +1,64 @@
+.landingPage
+{
+    /* border: 2px solid red; */
+    background-image:linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)), url('https://media.istockphoto.com/id/1200326335/photo/library-bookshelves-with-books-and-textbooks-learning-and-education-concept.jpg?s=612x612&w=0&k=20&c=ICUJ_LqhiCJAKfJzKiE4zEKTJR7eE2qILYozfUAtAmg=');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+.users
+{
+    /* border: 1px solid green; */
+    width: 300px;
+    height: 180px;
+    background-color: white;
+    position: relative;
+    top: 200px;
+    left: 430px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 1px 2px 20px rgb(83, 82, 82) inset;
+    /* background-color: black; */
+    
+}
+.userleftside{
+    /* border: 1px solid; */
+    text-align: center;
+    width: 120px;
+    height: 100px;
+}
+.userrightside{
+    /* border: 1px solid; */
+    text-align: center;
+    width: 120px;
+    height: 100px;
+}
+.users .userleftside img
+{
+    /* border: 1px solid; */
+    width: 50px;
+    height: 50px;
+    /* border-radius: 100%; */
+}
+.users .userrightside img{
+    /* border: 1px solid red; */
+    width: 50px;
+    height: 50px;
+    /* border-radius: 100%; */
+}
+.link
+{
+    border: 1px solid green;
+    color: white;
+    background-color: red;
+    display: inline-block;
+    margin-top: 15px;
+    width: 90px;
+    height: 22px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px grey;
+}

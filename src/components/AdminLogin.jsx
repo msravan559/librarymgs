@@ -1,5 +1,28 @@
+import { useNavigate } from "react-router-dom";
 import "../styles/AdminLogin.css"
+import { useRef } from "react";
 const AdminLogin = () => {
+    
+    let Navigate=useNavigate()
+    let email=useRef(null)
+    let password=useRef(null)
+
+
+    //validate admin credentials
+    let adminLogin=()=>{
+      if(email.current.value==="admin@gmail.com" && password.current.value==='123456')
+      {
+          Navigate('/admin-portal')
+      }
+      else
+      {
+          alert('Invalid Credentials')
+      }
+    }
+    
+
+  
+
     return (
         <div className="AdminLogin">
             <div className="loginpage1">
@@ -12,16 +35,16 @@ const AdminLogin = () => {
                     <hr />
                   </div>
                   <div className="form1">
-                    <form action="">
+                    <form action="" onSubmit={adminLogin}>
                     <div className="side">
                     <h3>Name:</h3>
                     <h3>Password:</h3>
                     </div>
                     <div className="side">
-                    <input type="text" placeholder="Enter UserName"/>
-                   <input type="text" placeholder="Enter password"/>
+                    <input ref={email} type="email" placeholder="Enter Email address"/>
+                    <input ref={password} type="password" placeholder="Enter your password"/>
                     </div>
-                    <button>Submit</button>
+                    <button className="adminloginbutton">login</button>
                     </form>
                   </div>
               </div>
