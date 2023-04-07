@@ -1,22 +1,24 @@
-import { useEffect } from "react";
+import { useEffect,useState } from "react";
 import {useParams} from 'react-router-dom'
+
 const Readbook = () => {
     let params=useParams()
+    let[books,setBooks]=useState("")
 
-    let book=0;
     useEffect(()=>{
         let fetchdata=async()=>
         {
-            let response=fetch(`http://localhost:4000/books/${params.id}`)
+            let response= await fetch(`http://localhost:4000/books/${params.id}`)
             let data=await response.json()
-            book=data;
+            setBooks(data)
         }
         fetchdata()
     })
     return ( 
         <div className="readbook">
-            <h1>Read Book kjNVDDDDDDDDDDDDDDDDDDDDDDDDDDD </h1>
-            <p>{book.id}</p>
+            {/* <h1>Read Book kjNVDDDDDDDDDDDDDDDDDDDDDDDDDDD </h1> */}
+            <h1>{books.title}</h1>
+            <p>{books.description}</p>
         </div>
     );
 }

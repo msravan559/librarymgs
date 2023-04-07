@@ -15,7 +15,7 @@ const AddUsers = () => {
             contact:contact.current.value
         }
     
-    fetch('http://localhost:5000/users',{
+    fetch('http://localhost:4000/users1',{
         method:'POST',
         headers:{'content-type':'application/json'},
         body:JSON.stringify(data)
@@ -24,8 +24,8 @@ const AddUsers = () => {
     name.current.value=null
     email.current.value=null
     contact.current.value=null
-    // alert('data added')
-    // Popup('jkjkjkjk')
+    alert('data added')
+    
 }
     return ( 
         <div className="addusers">
